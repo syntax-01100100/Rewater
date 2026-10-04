@@ -4,6 +4,8 @@
 ReWater gives water a digital identity. Every water source — tap, groundwater, rain, wastewater — can be tested, profiled, tracked through treatment, verified, and matched to a safe reuse pathway. The platform connects a web dashboard to the **AquaSense** ESP32 sensor prototype, turning real hardware readings into Water Passports, Water Credits, and measurable impact.
 
 > **AquaSense is future hardware.** Sensor readings in the prototype are simulated unless a real ESP32 device is connected. All recommendations clearly label their uncertainty.
+> <img width="524" height="279" alt="image" src="https://github.com/user-attachments/assets/d5d3c3eb-4d0d-41db-b0a0-54d75b6f7017" />
+
 
 ---
 
